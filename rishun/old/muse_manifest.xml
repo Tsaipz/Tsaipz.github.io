@@ -1,0 +1,484 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1567778108969">
+  <folder name="css">
+    <file name="site_global.css" crc="4085801442"/>
+    <file name="index.css" crc="3902716454" ref="index"/>
+    <file name="nomq_index.css" crc="4086751804" ref="index"/>
+    <file name="a-3.css" crc="3860988475" ref="a-3"/>
+    <file name="a-2.css" crc="3876679295" ref="a-2"/>
+    <file name="a-1.css" crc="65560691" ref="a-1"/>
+    <file name="nomq_a-1.css" crc="3925909379" ref="a-1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:a-1:a-2:a-3"/>
+    <file name="museutils.js" crc="3803043152" ref="index:a-1:a-2:a-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:a-1:a-2:a-3"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:a-1:a-2:a-3"/>
+    <file name="webpro.js" crc="242022427" ref="index:a-1:a-2"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:a-1:a-2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:a-1:a-2:a-3"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u8662.php" crc="143041867" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:a-1"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:a-1"/>
+    <file name="require.js" crc="4157109226" ref="index:a-1:a-2:a-3"/>
+    <file name="form-u7333.php" crc="417427747" ref="a-1"/>
+    <file name="form-u7651.php" crc="261927279" ref="a-2"/>
+  </folder>
+  <folder name="images">
+    <file name="b1.jpg" crc="441707397" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="tea_p05.jpg" crc="173138935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:a-1"/>
+    <file name="1.jpg" crc="4078579814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="top2.png" crc="307224798" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="top-u3486-fr.png" crc="372386273" ref="index"/>
+    <file name="name2.png" crc="3791571534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9874-4.png" crc="460038506" ref="index"/>
+    <file name="漫談茶事.png" crc="228378225" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle1-u3278-fr.png" crc="4252731872" ref="index"/>
+    <file name="circle2-u3292-fr.png" crc="247776937" ref="index"/>
+    <file name="circle3-u3289-fr.png" crc="105877990" ref="index"/>
+    <file name="a3.png" crc="3770689629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i4.jpg" crc="115575299" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2.png" crc="3879008765" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b3.png" crc="4234748184" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="最新消息.png" crc="4175726912" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="煙.gif" crc="4061079336" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c2-2.png" crc="3760543954" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c3-2.png" crc="4107858458" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c4-2.png" crc="107235436" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c5-2.png" crc="4269758297" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c1-2.png" crc="4087454110" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c8-2.png" crc="3837575447" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c2-1.png" crc="4107615539" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c2.png" crc="4015324041" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c3-1.png" crc="4062268150" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c3.png" crc="195948891" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c4-1.png" crc="4234088940" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c4.png" crc="139426181" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c5-1.png" crc="430972033" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c5.png" crc="377113065" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c1-1.png" crc="344339295" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c1.png" crc="4198267900" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c8-1.png" crc="279375618" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c8.png" crc="4082588294" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3862-4.png" crc="4144790192" ref="index"/>
+    <file name="職人推薦-1.png" crc="4028347665" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ac-1-1-131.jpg" crc="345146057" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="好康指南.png" crc="3824740519" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca.png" crc="208840020" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶輕鬆三步驟_5-u8146-fr.png" crc="4091447826" ref="index"/>
+    <file name="體驗活動.png" crc="508033696" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1.png" crc="357011174" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="慕名而來.png" crc="4283041672" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e22.jpg" crc="187464113" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e6.gif" crc="297584488" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="name1.png" crc="135080634" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e3.png" crc="536349146" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e5.png" crc="4018342941" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e4.png" crc="3877565548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶包.jpg" crc="4039266012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人蔘烏龍茶.jpg" crc="3904538820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2把水倒净，置入茶叶.jpg" crc="3972926451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶輕鬆三步驟_5541x360.jpg" crc="57630195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人蔘烏龍茶2.jpg" crc="51176137" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶包2.jpg" crc="134476919" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶包-crop-u1962.jpg" crc="4162989917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人蔘烏龍茶-crop-u3951.jpg" crc="4176340077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2把水倒净，置入茶叶-crop-u3978.jpg" crc="304002588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶輕鬆三步驟_5-crop-u4005.jpg" crc="461501190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2013-brand_how.png" crc="3852504674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a.gif" crc="3888547989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a4.png" crc="3964047298" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="t.png" crc="4210477090" ref="index">
+      <caption webpage="index" alt="漫談茶事"/>
+      <caption webpage="index" alt="漫談茶事"/>
+      <caption webpage="index" alt="最新消息"/>
+      <caption webpage="index" alt="最新消息"/>
+      <caption webpage="index" alt="職人推薦"/>
+      <caption webpage="index" alt="職人推薦"/>
+      <caption webpage="index" alt="體驗活動"/>
+      <caption webpage="index" alt="體驗活動"/>
+      <caption webpage="index" alt="慕名而來"/>
+      <caption webpage="index" alt="慕名而來"/>
+      <caption webpage="index" alt="漫談茶事"/>
+      <caption webpage="index" alt="漫談茶事"/>
+      <caption webpage="index" alt="最新消息"/>
+      <caption webpage="index" alt="最新消息"/>
+      <caption webpage="index" alt="職人推薦"/>
+      <caption webpage="index" alt="職人推薦"/>
+      <caption webpage="index" alt="體驗活動"/>
+      <caption webpage="index" alt="體驗活動"/>
+      <caption webpage="index" alt="慕名而來"/>
+      <caption webpage="index" alt="慕名而來"/>
+      <caption webpage="index" alt="漫談茶事"/>
+      <caption webpage="index" alt="漫談茶事"/>
+      <caption webpage="index" alt="最新消息"/>
+      <caption webpage="index" alt="最新消息"/>
+      <caption webpage="index" alt="職人推薦"/>
+      <caption webpage="index" alt="職人推薦"/>
+      <caption webpage="index" alt="體驗活動"/>
+      <caption webpage="index" alt="體驗活動"/>
+      <caption webpage="index" alt="慕名而來"/>
+      <caption webpage="index" alt="慕名而來"/>
+    </file>
+    <file name="name1-u8187-fr.png" crc="3977223433" ref="index"/>
+    <file name="fb.png" crc="352620964" ref="index:a-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb1.png" crc="3946782109" ref="index:a-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.png" crc="441814284" ref="index:a-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line1.png" crc="449763978" ref="index:a-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig.png" crc="354622249" ref="index:a-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig1.png" crc="180413038" ref="index:a-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9874-42.png" crc="460038506" ref="index"/>
+    <file name="u3862-42.png" crc="4251711137" ref="index"/>
+    <file name="冷泡茶包-crop-u19622.jpg" crc="4162989917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人蔘烏龍茶-crop-u39512.jpg" crc="4176340077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2把水倒净，置入茶叶-crop-u39782.jpg" crc="304002588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶輕鬆三步驟_5-crop-u40052.jpg" crc="3836753140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c3-2-u4877-fr.png" crc="3793288295" ref="index"/>
+    <file name="c5-2-u5013-fr.png" crc="21556952" ref="index"/>
+    <file name="c1-2-u8587-fr.png" crc="335780357" ref="index"/>
+    <file name="c8-2-u8602-fr.png" crc="3882310431" ref="index"/>
+    <file name="u3862-43.png" crc="4251711137" ref="index"/>
+    <file name="top-u3486-fr2.png" crc="477774776" ref="index"/>
+    <file name="u9874-43.png" crc="94958058" ref="index"/>
+    <file name="冷泡茶包-crop-u19623.jpg" crc="3940716538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人蔘烏龍茶-crop-u39513.jpg" crc="4052916850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2把水倒净，置入茶叶-crop-u39783.jpg" crc="3855762721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶輕鬆三步驟_5-crop-u40053.jpg" crc="3873243342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶輕鬆三步驟_5.jpg" crc="441900748" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="聯絡我們.png" crc="512476689" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="a11.png" crc="4143079533" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="報名活動.png" crc="3936778527" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="img_3543.png" crc="509464206" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="ca1.jpg" crc="232784296" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="141589555" seo="true" mt="1567778066161" redirect="true"/>
+  <file name="a-1.html" crc="3873196250" seo="true" mt="1566727873367" redirect="true"/>
+  <file name="a-2.html" crc="4285059377" seo="true" mt="1566782519037" redirect="true"/>
+  <file name="a-3.html" crc="4277973801" seo="true" mt="1566736577760" redirect="true"/>
+</manifest>

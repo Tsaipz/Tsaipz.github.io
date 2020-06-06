@@ -1,0 +1,232 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1563807253054">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="256642282" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u4599.php" crc="4002008494" ref="index"/>
+    <file name="form-u4423.php" crc="160726950" ref="index"/>
+    <file name="form-u4511.php" crc="4108218499" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="form-u5614.php" crc="3986968937" ref="index"/>
+    <file name="form-u2878.php" crc="3766167260" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="102621185" ref="index"/>
+    <file name="aaaa.png" crc="4253609536" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20180812175538343.gif" crc="218470153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="20180917004244.jpg" crc="3981878227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="西子灣復古日式冰店－ 古錐家 你好!紅豆湯2.jpg" crc="132986387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="p2.png" crc="16511965" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3-u144-3-fr.png" crc="4220470286" ref="index"/>
+    <file name="s1.gif" crc="191061967" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v0fjtmp-u453-fr.png" crc="4264726311" ref="index"/>
+    <file name="kaohsiung-pier2-2.jpg" crc="496144323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_vmsu6oomydxbzemjusrlea.jpg" crc="310296210" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="六斤麵線-u2797-fr.jpg" crc="22933297" ref="index"/>
+    <file name="13933507465_b2aec9143d_b.jpg" crc="3909138992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7dadb891897dfbfbaa98e494c018f078.jpg" crc="3926255502" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a1-u4106-fr.jpg" crc="47633257" ref="index"/>
+    <file name="a3.jpg" crc="198086156" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a2-u4108-fr.jpg" crc="4091090921" ref="index"/>
+    <file name="紅毛港文化園區1-u4621-fr.png" crc="180595749" ref="index"/>
+    <file name="高雄光榮碼頭-u4499-fr.png" crc="349509294" ref="index"/>
+    <file name="鳳儀書院2-u4533-fr.png" crc="3858003179" ref="index"/>
+    <file name="0724-u2276-fr.png" crc="3822021735" ref="index"/>
+    <file name="u4917-4.png" crc="489879628" ref="index"/>
+    <file name="駁二藝術特區4月啟動「哈瑪星光任務」-crop-u3642.jpg" crc="226246254" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="田寮月世界地景公園1.jpg" crc="244011083" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="--1.jpg" crc="146682519" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="高雄市立圖書館總館-crop-u3569-u4866-fr.jpg" crc="3864219519" ref="index"/>
+    <file name="高雄市立圖書館總館-crop-u3575.jpg" crc="102545726" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="聚竹蚵地景藝術-crop-u3521.jpg" crc="3883292528" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="駁二藝術特區4月啟動「哈瑪星光任務」-u4874-fr.png" crc="177518913" ref="index"/>
+    <file name="0722.png" crc="144854812" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="田寮月世界地景公園1-u4875-fr.png" crc="3854783583" ref="index"/>
+    <file name="0723 (2).png" crc="448590453" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="高雄市立圖書館總館-crop-u3569-u4873-fr.png" crc="3801702646" ref="index"/>
+    <file name="0720.png" crc="328521856" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="聚竹蚵地景藝術-crop-u3521-u4913-fr.png" crc="4204065994" ref="index"/>
+    <file name="0721.png" crc="4035884594" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="老鹽埕新樂街鴨肉珍-u5761-fr.png" crc="3846167271" ref="index"/>
+    <file name="star1.png" crc="3856463150" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="star.png" crc="4099267247" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="西子灣復古日式冰店－ 古錐家 你好!紅豆湯2-u5756-fr.png" crc="388446202" ref="index"/>
+    <file name="鹽埕美食-u5751-fr.png" crc="4234334130" ref="index"/>
+    <file name="六斤麵線-u5836-fr.png" crc="4186886767" ref="index"/>
+    <file name="西子灣復古日式冰店－ 古錐家 你好!紅豆湯1-u5947-fr.png" crc="4121164830" ref="index"/>
+    <file name="1_vmsu6oomydxbzemjusrlea-u2017-fr.png" crc="4266588420" ref="index"/>
+    <file name="d909185-u2043-5-fr.png" crc="4208063939" ref="index"/>
+    <file name="a6.png" crc="4003531009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="哨船頭文創空間3.jpg" crc="3777598372" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="z.png" crc="3768621772" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zz.png" crc="3977150952" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="z2.png" crc="4033110830" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="z1.png" crc="432217483" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="z3.png" crc="3915963074" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="170713q33a23cc5wq2vw2c-u2053-3-fr.png" crc="136641258" ref="index"/>
+    <file name="aaa.png" crc="3919157126" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170309130137_63.jpg" crc="396822715" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="小v旅行_travel-with-v-u2048-3-fr.png" crc="164266820" ref="index"/>
+    <file name="3-u2159-3-fr.png" crc="263903505" ref="index"/>
+    <file name="西子灣觀海祕境.jpg" crc="3983194137" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="600_phpqbmmhd-u4369-fr.png" crc="3857026312" ref="index"/>
+    <file name="800x0.png" crc="181598855" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="500x0.jpg" crc="4060830038" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k2.png" crc="424321893" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bkn-20170826221149383-0826_00862_001_03p.jpg" crc="158187149" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k4.png" crc="149352299" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="80062c86-acfa-4c2c-a54e-b7c65bbf617c.jpg" crc="3980171260" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k6.png" crc="148901050" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1225172.jpg" crc="319094906" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k8.png" crc="38687383" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="etiqa-og-travel.jpg" crc="4253996214" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.gif" crc="4013677045" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aa-u480.png" crc="440742348" ref="index"/>
+    <file name="aa-u480-r.png" crc="137900785" ref="index"/>
+    <file name="愛河輪船-u3906-fr.png" crc="3896865888" ref="index"/>
+    <file name="p-u631-fr.png" crc="3770550377" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4076561812" seo="true" mt="1563806684292" redirect="true"/>
+</manifest>

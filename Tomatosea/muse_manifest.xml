@@ -1,0 +1,368 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1574162983010">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="247359333" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u1435.php" crc="4092000001" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u248_states.png" crc="23383847" ref="index"/>
+    <file name="a-20-u248_states-r.png" crc="446507439" ref="index"/>
+    <file name="u252_states.png" crc="4293055113" ref="index"/>
+    <file name="a-20-u252_states-r.png" crc="3760354273" ref="index"/>
+    <file name="u258_states.png" crc="384316104" ref="index"/>
+    <file name="a-20-u258_states-r.png" crc="253590855" ref="index"/>
+    <file name="u255_states.png" crc="383379942" ref="index"/>
+    <file name="a-20-u255_states-r.png" crc="3814161380" ref="index"/>
+    <file name="u261_states.png" crc="471756006" ref="index"/>
+    <file name="a-20-u261_states-r.png" crc="4167447882" ref="index"/>
+    <file name="u264_states.png" crc="227473820" ref="index"/>
+    <file name="a-20-u264_states-r.png" crc="4220042742" ref="index"/>
+    <file name="tomatoes_550946_1280x853.jpg" crc="50173978" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u438-4.png" crc="3914257571" ref="index"/>
+    <file name="u1006-4.png" crc="3983904396" ref="index"/>
+    <file name="u1010-4.png" crc="3871633007" ref="index"/>
+    <file name="a-10.png" crc="4036198515" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seafoods_shells_shrimp_549508_1280x883 (1)-u5218-fr.png" crc="3948717411" ref="index"/>
+    <file name="u5219-6.png" crc="329858858" ref="index"/>
+    <file name="a-09.jpg" crc="442984167" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sandwich_vegetables_garlic_bread_sausage_552324_1280x854.jpg" crc="209753667" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5226-7.png" crc="91202564" ref="index"/>
+    <file name="a-08.png" crc="3837678828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tomatoes_spices_dill_white_background_jar_538028_1280x800.jpg" crc="3984005177" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5241-7.png" crc="4030455648" ref="index"/>
+    <file name="u5260.png" crc="357491593" ref="index"/>
+    <file name="u5260-r.png" crc="3836436206" ref="index"/>
+    <file name="u5260-a.png" crc="4237812786" ref="index"/>
+    <file name="u5256.png" crc="233218232" ref="index"/>
+    <file name="u5256-r.png" crc="3829939349" ref="index"/>
+    <file name="u5256-a.png" crc="169516947" ref="index"/>
+    <file name="u5258.png" crc="430192997" ref="index"/>
+    <file name="u5258-r.png" crc="247057881" ref="index"/>
+    <file name="u5258-a.png" crc="3849585420" ref="index"/>
+    <file name="fast_food_pizza_olive_tomatoes_wood_planks_547526_1280x812.jpg" crc="105096233" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetables_tomatoes_pepper_eggplant_onion_wood_551724_1280x854.jpg" crc="398873766" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fast_food_pizza_knife_vegetables_fork_wood_planks_547037_1280x853.jpg" crc="3898466652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tomatoes_white_background_cook_uniform_smile_547586_749x1024-u5568-fr.jpg" crc="3920482849" ref="index"/>
+    <file name="u1955-4.png" crc="105904602" ref="index"/>
+    <file name="u1956-4.png" crc="3857384983" ref="index"/>
+    <file name="u1961-4.png" crc="417297774" ref="index"/>
+    <file name="u1962-4.png" crc="3782805934" ref="index"/>
+    <file name="u5596-4.png" crc="90509131" ref="index"/>
+    <file name="u5597-4.png" crc="4095732952" ref="index"/>
+    <file name="u5590-4.png" crc="3950931669" ref="index"/>
+    <file name="u5591-4.png" crc="13819386" ref="index"/>
+    <file name="u454-4.png" crc="398872989" ref="index"/>
+    <file name="u458-4.png" crc="442911749" ref="index"/>
+    <file name="fast_food_pizza_closeup_547646_1280x853.jpg" crc="3818634507" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fast_food_pizza_knife_vegetables_fork_wood_planks_547037_1280x8532.jpg" crc="3868867203" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fast_food_pizza_olive_548372_1280x863.jpg" crc="386411710" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fast_food_pizza_tomatoes_489103.jpg" crc="4160260654" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fast_food_pizza_tomatoes_shrimp_closeup_white_551196_1280x853.jpg" crc="20771326" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fast_food_sandwich_meat_products_vegetables_bread_539596_817x1024 (1).jpg" crc="4069759218" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sandwich_bread_vegetables_colored_background_wood_542450_1280x851.jpg" crc="3949616543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="salads_vegetables_shrimp_wood_planks_plate_548980_1280x898.jpg" crc="240614896" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seafoods_shrimp_caviar_548877_1280x853.jpg" crc="4118096074" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="meat_products_bread_pepper_radishes_wood_planks_548221_1280x911.jpg" crc="4257602583" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u482-11.png" crc="260158302" ref="index"/>
+    <file name="u524-11.png" crc="4179648134" ref="index"/>
+    <file name="u485-10.png" crc="406439666" ref="index"/>
+    <file name="u515-11.png" crc="4160780361" ref="index"/>
+    <file name="u488-11.png" crc="493484558" ref="index"/>
+    <file name="u509-11.png" crc="3995412302" ref="index"/>
+    <file name="u491-11.png" crc="3884617024" ref="index"/>
+    <file name="u506-11.png" crc="207307279" ref="index"/>
+    <file name="u494-11.png" crc="3784606213" ref="index"/>
+    <file name="u497-12.png" crc="418922351" ref="index"/>
+    <file name="sausage_tomatoes_cutting_board_sliced_food_552205_1280x841.jpg" crc="4232245878" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5613-6.png" crc="3811144338" ref="index"/>
+    <file name="u5616-6.png" crc="3811144338" ref="index"/>
+    <file name="u5619-6.png" crc="3811144338" ref="index"/>
+    <file name="u5622-6.png" crc="3811144338" ref="index"/>
+    <file name="u5625-6.png" crc="3811144338" ref="index"/>
+    <file name="u5637-6.png" crc="3811144338" ref="index"/>
+    <file name="u5610-6.png" crc="3811144338" ref="index"/>
+    <file name="u5634-6.png" crc="3811144338" ref="index"/>
+    <file name="u5628-6.png" crc="3811144338" ref="index"/>
+    <file name="u5631-6.png" crc="3811144338" ref="index"/>
+    <file name="u2010-4.png" crc="4067905240" ref="index"/>
+    <file name="u3795-4.png" crc="4067905240" ref="index"/>
+    <file name="u3798-4.png" crc="4067905240" ref="index"/>
+    <file name="u3801-4.png" crc="4067905240" ref="index"/>
+    <file name="u3804-4.png" crc="4067905240" ref="index"/>
+    <file name="u3819-4.png" crc="4067905240" ref="index"/>
+    <file name="u3816-4.png" crc="4067905240" ref="index"/>
+    <file name="u3813-4.png" crc="4067905240" ref="index"/>
+    <file name="u3807-4.png" crc="4067905240" ref="index"/>
+    <file name="u3982-4.png" crc="4067905240" ref="index"/>
+    <file name="u527-4.png" crc="3779811441" ref="index"/>
+    <file name="u528-4.png" crc="4169957065" ref="index"/>
+    <file name="tomatoes_white_background_cook_uniform_smile_547586_749x1024.jpg" crc="455985099" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetables_creative_cook_uniform_megaphone_546484_1280x853.jpg" crc="4154261319" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fingers_white_background_cook_smile_uniform_spoon_544047_1280x897.jpg" crc="239709685" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-03.png" crc="88500320" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1641-4.png" crc="98939605" ref="index"/>
+    <file name="u1644-4.png" crc="98939605" ref="index"/>
+    <file name="u1647-4.png" crc="98939605" ref="index"/>
+    <file name="vegetables_bread_fruit_tom1atoes_infants_cook_546126_1280x853.jpg" crc="113176280" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6315-6.png" crc="373514062" ref="index"/>
+    <file name="a-11.png" crc="309291241" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3631-6.png" crc="373514062" ref="index"/>
+    <file name="u6366-6.png" crc="373514062" ref="index"/>
+    <file name="u562-15.png" crc="4291386273" ref="index"/>
+    <file name="u565-11.png" crc="3976881431" ref="index"/>
+    <file name="u568-11.png" crc="38429083" ref="index"/>
+    <file name="u764-4.png" crc="421077609" ref="index"/>
+    <file name="u765-4.png" crc="4255761228" ref="index"/>
+    <file name="spices_black_pepper_spoon_550450_1280x854.jpg" crc="269221088" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spices_black_pepper_spoon_550450_1280x854-u781-fr.png" crc="13213410" ref="index"/>
+    <file name="u784-4.png" crc="158907398" ref="index"/>
+    <file name="u1062-10.png" crc="225632017" ref="index"/>
+    <file name="u4155-6.png" crc="263867553" ref="index"/>
+    <file name="vegetables_apples_pepper_tomatoes_garlic_white_545545_1280x851.jpg" crc="3987399322" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1176-4.png" crc="436869452" ref="index"/>
+    <file name="u1177-9.png" crc="56505987" ref="index"/>
+    <file name="u1182-4.png" crc="4000755980" ref="index"/>
+    <file name="貼上的影像 199x158.jpg" crc="4207137670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u580-4.png" crc="4089278740" ref="index"/>
+    <file name="u583-4.png" crc="135228656" ref="index"/>
+    <file name="a-22.png" crc="3950366916" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-14.png" crc="4000267153" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-21.png" crc="4017656476" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-12.png" crc="101687089" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-23.png" crc="4208242026" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-13.png" crc="4024772911" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-132.png" crc="4137504044" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetables_tomatoes_pepper_dill_garlic_spices_wood_549080_1280x853-u4294-fr.jpg" crc="3803809934" ref="index"/>
+    <file name="u4342-4.png" crc="4222789189" ref="index"/>
+    <file name="u4345-4.png" crc="4061522261" ref="index"/>
+    <file name="u4365-4.png" crc="3773822873" ref="index"/>
+    <file name="u4348-4.png" crc="362396785" ref="index"/>
+    <file name="u4368-4.png" crc="4122551868" ref="index"/>
+    <file name="u4353-4.png" crc="436446705" ref="index"/>
+    <file name="u4371-4.png" crc="4139630864" ref="index"/>
+    <file name="u4356-4.png" crc="162786846" ref="index"/>
+    <file name="u4374-4.png" crc="291537595" ref="index"/>
+    <file name="u4359-4.png" crc="3818385339" ref="index"/>
+    <file name="u4377-4.png" crc="320084839" ref="index"/>
+    <file name="u4362-4.png" crc="108686643" ref="index"/>
+    <file name="u4380-4.png" crc="4030735857" ref="index"/>
+    <file name="vegetables_tomatoes_pepper_eggplant_onion_wood_551724_1280x854-u4290-fr.jpg" crc="3809188791" ref="index"/>
+    <file name="u5667-4.png" crc="4222789189" ref="index"/>
+    <file name="u5668-4.png" crc="4061522261" ref="index"/>
+    <file name="u5669-4.png" crc="4146076646" ref="index"/>
+    <file name="u5675-4.png" crc="362396785" ref="index"/>
+    <file name="u5670-4.png" crc="4081357595" ref="index"/>
+    <file name="u5676-4.png" crc="436446705" ref="index"/>
+    <file name="u5671-4.png" crc="4290488560" ref="index"/>
+    <file name="u5677-4.png" crc="162786846" ref="index"/>
+    <file name="u5672-4.png" crc="301977965" ref="index"/>
+    <file name="u5678-4.png" crc="3818385339" ref="index"/>
+    <file name="u5673-4.png" crc="3945212422" ref="index"/>
+    <file name="u5679-4.png" crc="108686643" ref="index"/>
+    <file name="u5674-4.png" crc="4030735857" ref="index"/>
+    <file name="bread_little_girls_cook_wicker_basket_glance_552200_1280x853-u4292-fr.jpg" crc="4293220912" ref="index"/>
+    <file name="u5726-4.png" crc="4222789189" ref="index"/>
+    <file name="u5727-4.png" crc="4061522261" ref="index"/>
+    <file name="u5728-4.png" crc="4237767760" ref="index"/>
+    <file name="u5734-4.png" crc="362396785" ref="index"/>
+    <file name="u5729-4.png" crc="3969965640" ref="index"/>
+    <file name="u5735-4.png" crc="436446705" ref="index"/>
+    <file name="u5730-4.png" crc="3792033867" ref="index"/>
+    <file name="u5736-4.png" crc="162786846" ref="index"/>
+    <file name="u5731-4.png" crc="4230719079" ref="index"/>
+    <file name="u5737-4.png" crc="3818385339" ref="index"/>
+    <file name="u5732-4.png" crc="320084839" ref="index"/>
+    <file name="u5738-4.png" crc="108686643" ref="index"/>
+    <file name="u5733-4.png" crc="4030735857" ref="index"/>
+    <file name="u589-11.png" crc="190463513" ref="index"/>
+    <file name="u592-12.png" crc="173718075" ref="index"/>
+    <file name="u598-8.png" crc="4032094220" ref="index"/>
+    <file name="spices_many_black_pepper_543445_1280x833 - 複製-u4009-fr.jpg" crc="151781004" ref="index"/>
+    <file name="u4010-6.png" crc="3947937057" ref="index"/>
+    <file name="u4006-6.png" crc="3947937057" ref="index"/>
+    <file name="u4024-6.png" crc="3947937057" ref="index"/>
+    <file name="u4027-4.png" crc="237426615" ref="index"/>
+    <file name="u4033-4.png" crc="237426615" ref="index"/>
+    <file name="u4045-4.png" crc="237426615" ref="index"/>
+    <file name="u604-4.png" crc="4245316389" ref="index"/>
+    <file name="u605-4.png" crc="3776154693" ref="index"/>
+    <file name="a-04.png" crc="402323536" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1225-4.png" crc="283166452" ref="index"/>
+    <file name="u1234-6.png" crc="109722686" ref="index"/>
+    <file name="a-06.png" crc="332536397" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1231-4.png" crc="105958466" ref="index"/>
+    <file name="u1499-6.png" crc="376614935" ref="index"/>
+    <file name="a-07.png" crc="3759422323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1228-4.png" crc="9827993" ref="index"/>
+    <file name="u1496-6.png" crc="507588251" ref="index"/>
+    <file name="a-02.png" crc="492242718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u111-4.png" crc="3765198776" ref="index"/>
+    <file name="u238-6.png" crc="3773701035" ref="index"/>
+    <file name="u154.png" crc="449171495" ref="index"/>
+    <file name="u154-r.png" crc="4002365539" ref="index"/>
+    <file name="u154-a.png" crc="449171495" ref="index"/>
+    <file name="u277-4.png" crc="266380303" ref="index"/>
+    <file name="u306-3.png" crc="3893559787" ref="index"/>
+    <file name="u318-3.png" crc="3893559787" ref="index"/>
+    <file name="u330-3.png" crc="3893559787" ref="index"/>
+    <file name="u327-3.png" crc="3893559787" ref="index"/>
+    <file name="u324-3.png" crc="3893559787" ref="index"/>
+    <file name="u321-3.png" crc="3893559787" ref="index"/>
+    <file name="u272.png" crc="3758124785" ref="index"/>
+    <file name="u272-r.png" crc="3958653590" ref="index"/>
+    <file name="u272-a.png" crc="3758124785" ref="index"/>
+    <file name="u241-4-a.png" crc="130497593" ref="index"/>
+    <file name="a-022.png" crc="4028533659" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-16.png" crc="139268671" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-15.png" crc="3961506643" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-17.png" crc="3802074534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-19.png" crc="534305231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-18.png" crc="40049337" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 139x26.jpg" crc="3939165521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m.png" crc="293807866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1853-4.png" crc="411700136" ref="index"/>
+    <file name="u1856-8.png" crc="4102862420" ref="index"/>
+    <file name="u1246-4.png" crc="4049545481" ref="index"/>
+    <file name="u1433-4.png" crc="257942101" ref="index"/>
+    <file name="u1266.png" crc="262306664" ref="index"/>
+    <file name="u1266-r.png" crc="4066215805" ref="index"/>
+    <file name="u1266-a.png" crc="1385755" ref="index"/>
+    <file name="u1213-4.png" crc="3805315474" ref="index"/>
+    <file name="a-01.jpg" crc="4014999745" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="7071498" seo="true" mt="1574162822914" redirect="true"/>
+</manifest>

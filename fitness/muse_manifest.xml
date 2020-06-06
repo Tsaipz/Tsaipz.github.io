@@ -1,0 +1,380 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.htm" resolutions="1x" timestamp="1572924619931">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="new2.css" crc="54280005" ref="new2"/>
+    <file name="2.css" crc="3967866293" ref="2"/>
+    <file name="1.css" crc="238132649" ref="1"/>
+    <file name="a5.css" crc="4004847963" ref="a5"/>
+    <file name="news1.css" crc="270950771" ref="news1"/>
+    <file name="index.css" crc="3958938518" ref="index"/>
+    <file name="new3.css" crc="3972203961" ref="new3"/>
+    <file name="a4.css" crc="4040517811" ref="a4"/>
+  </folder>
+  <folder name="assets">
+    <file name="varun-dhawan-620_620x350_51482354033.jpg" crc="3855368230" seo="true" mt="1541550638000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:a4:new2:news1:new3:a5:1:2"/>
+    <file name="museutils.js" crc="17924269" ref="index:a4:new2:news1:new3:a5:1:2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:a4:new2:news1:new3:a5:1:2"/>
+    <file name="museconfig.js" crc="144853533" ref="index:a4:new2:news1:new3:a5:1:2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:new2:news1:new3:a5:1:2"/>
+    <file name="webpro.js" crc="416662029" ref="index:a5:1"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:a5"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:a5"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:a5"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u11864.php" crc="4172678668" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:a4:new2:news1:new3:a5:1:2"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:a4:new2:news1:new3:a5:1:2"/>
+    <file name="form-u11546.php" crc="3764859521" ref="1"/>
+  </folder>
+  <folder name="images">
+    <file name="a-01.png" crc="4073554260" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u13237-4.png" crc="162451881" ref="index"/>
+    <file name="u686-4.png" crc="4147452693" ref="index"/>
+    <file name="u739-24.png" crc="3862441472" ref="index"/>
+    <file name="clothes-for-fitness.jpg" crc="4181229505" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7693-4.png" crc="3841157272" ref="index"/>
+    <file name="c732f7b0944411e88ea30e92b056efc0-crop-u12886.jpg" crc="95292798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:new2:news1:new3:a5:1"/>
+    <file name="woman-running-on-treadmill-crop-u12948.jpg" crc="3766418298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:a5"/>
+    <file name="alice_rings__medium_4x3-crop-u13320.jpg" crc="4048637462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andressa-suita-moda-fitness-atacado-melcaju-12-crop-u13420.jpg" crc="400963302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="戶外休閒部落格工作區域 2-crop-u13440.jpg" crc="164738031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u669-4.png" crc="85865889" ref="index"/>
+    <file name="u785-4.png" crc="423755181" ref="index"/>
+    <file name="u5733-4.png" crc="3986595501" ref="index"/>
+    <file name="a-02.png" crc="154803833" ref="index:news1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="a-03.jpg" crc="446000216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-06.png" crc="4027134801" ref="index:new2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="new2" alt=""/>
+    </file>
+    <file name="a-26-u6264-fr.png" crc="500874495" ref="index"/>
+    <file name="u6265.png" crc="66565385" ref="index"/>
+    <file name="u6265-r.png" crc="461499194" ref="index"/>
+    <file name="u6265-a.png" crc="274838138" ref="index"/>
+    <file name="a-26-u6266-fr.png" crc="3959245347" ref="index"/>
+    <file name="u12508.png" crc="311194667" ref="index"/>
+    <file name="u12508-r.png" crc="245053048" ref="index"/>
+    <file name="u12508-a.png" crc="4196684108" ref="index"/>
+    <file name="u12504.png" crc="473381169" ref="index"/>
+    <file name="u12504-r.png" crc="4042718123" ref="index"/>
+    <file name="u12504-a.png" crc="308914388" ref="index"/>
+    <file name="u815-4.png" crc="3964769069" ref="index"/>
+    <file name="u5498-4.png" crc="4178678218" ref="index"/>
+    <file name="123.jpg" crc="134914203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lf09-apr-fitness.jpg" crc="445724606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12387-18.png" crc="226805183" ref="index"/>
+    <file name="u12439-15.png" crc="3882829912" ref="index"/>
+    <file name="a-12-u11707-fr.png" crc="8788889" ref="index"/>
+    <file name="u11863-4.png" crc="18833319" ref="index"/>
+    <file name="u11898.png" crc="3901171755" ref="index"/>
+    <file name="u11898-ferr.png" crc="3835749488" ref="index"/>
+    <file name="u11896.png" crc="3846528037" ref="index"/>
+    <file name="u11896-ferr.png" crc="466147224" ref="index"/>
+    <file name="u11866.png" crc="366797671" ref="index"/>
+    <file name="u11866-ferr.png" crc="22866244" ref="index"/>
+    <file name="u11891.png" crc="3877504287" ref="index"/>
+    <file name="u11891-ferr.png" crc="522007179" ref="index"/>
+    <file name="u11869.png" crc="4151460121" ref="index"/>
+    <file name="u11869-r.png" crc="4268225768" ref="index"/>
+    <file name="u11886.png" crc="76743465" ref="index"/>
+    <file name="u11886-ferr.png" crc="4091163874" ref="index"/>
+    <file name="u11882.png" crc="4247262960" ref="index"/>
+    <file name="u11882-ferr.png" crc="101224016" ref="index"/>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11877.png" crc="207784276" ref="index"/>
+    <file name="u11877-ferr.png" crc="282767023" ref="index"/>
+    <file name="u9703-4.png" crc="4202091693" ref="index"/>
+    <file name="u9706-4.png" crc="3821001082" ref="index"/>
+    <file name="6d742b886f3ef5d6f0d5ce7e0e46478e-u10329-fr.png" crc="3791296470" ref="index"/>
+    <file name="8927102114_344720360310x310.jpg" crc="301444334" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circuit-training-equipment.jpg" crc="3818594168" seo="true" ref="index:a5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="s-l300.jpg" crc="4068504520" seo="true" ref="index:a5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="150122-u10341-fr.jpg" crc="105156735" ref="index"/>
+    <file name="u10359-8.png" crc="3968209583" ref="index"/>
+    <file name="u10353-8.png" crc="240365148" ref="index"/>
+    <file name="u10362-8.png" crc="4122030686" ref="index"/>
+    <file name="u10365-7.png" crc="4207779982" ref="index"/>
+    <file name="u10368-8.png" crc="355924328" ref="index"/>
+    <file name="u867-4.png" crc="3854823727" ref="index"/>
+    <file name="u5684-4.png" crc="500049033" ref="index"/>
+    <file name="a-100.gif" crc="332611993" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="4130176866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8547-4.png" crc="4246565954" ref="index"/>
+    <file name="a-99.gif" crc="4076809901" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8658-4.png" crc="431392426" ref="index"/>
+    <file name="a-98.gif" crc="74099476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8661-4.png" crc="3835756902" ref="index"/>
+    <file name="u6475-19.png" crc="149212780" ref="index"/>
+    <file name="u3959-16.png" crc="214739059" ref="index"/>
+    <file name="u3962-16.png" crc="226552783" ref="index"/>
+    <file name="u8040-4.png" crc="4263405584" ref="index"/>
+    <file name="b-21.jpg" crc="4101782653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6448-4.png" crc="50798364" ref="index"/>
+    <file name="b-20.jpg" crc="214071125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6452-4.png" crc="3833723615" ref="index"/>
+    <file name="b-22.jpg" crc="3806694326" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6534-4.png" crc="297043677" ref="index"/>
+    <file name="u105_states.png" crc="4143270151" ref="index"/>
+    <file name="u105_states-r.png" crc="453974743" ref="index"/>
+    <file name="u105_states-a.png" crc="453974743" ref="index"/>
+    <file name="u109_states.png" crc="4184367422" ref="index"/>
+    <file name="u109_states-r.png" crc="14781097" ref="index"/>
+    <file name="u109_states-a.png" crc="14781097" ref="index"/>
+    <file name="u114_states.png" crc="194657629" ref="index"/>
+    <file name="u114_states-r.png" crc="60694296" ref="index"/>
+    <file name="u114_states-a.png" crc="60694296" ref="index"/>
+    <file name="u117_states.png" crc="3849279525" ref="index"/>
+    <file name="u117_states-r.png" crc="4190223456" ref="index"/>
+    <file name="u117_states-a.png" crc="4190223456" ref="index"/>
+    <file name="u120_states.png" crc="173605007" ref="index"/>
+    <file name="u120_states-r.png" crc="247421369" ref="index"/>
+    <file name="u120_states-a.png" crc="247421369" ref="index"/>
+    <file name="u12877_states.png" crc="3993105760" ref="index"/>
+    <file name="u12877_states-r.png" crc="477054836" ref="index"/>
+    <file name="u12877_states-a.png" crc="477054836" ref="index"/>
+    <file name="a-19.png" crc="129769468" ref="index:new2:news1:new3:a5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="a5" alt=""/>
+      <caption webpage="new2" alt=""/>
+      <caption webpage="new3" alt=""/>
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="u2957-4.png" crc="4186161232" ref="index"/>
+    <file name="u1302-4.png" crc="226874891" ref="index"/>
+    <file name="u6436-4.png" crc="5895082" ref="index"/>
+    <file name="u1306-4.png" crc="4141314063" ref="index"/>
+    <file name="u6439-4.png" crc="4108764581" ref="index"/>
+    <file name="u1310-4.png" crc="192762319" ref="index"/>
+    <file name="u6442-4.png" crc="3816381759" ref="index"/>
+    <file name="u1314-4.png" crc="4254962155" ref="index"/>
+    <file name="u6445-4.png" crc="4080068049" ref="index"/>
+    <file name="u6537-4.png" crc="4115901560" ref="index"/>
+    <file name="u6540-4.png" crc="400725017" ref="index"/>
+    <file name="u6543-4.png" crc="3816381759" ref="index"/>
+    <file name="u6546-4.png" crc="4080068049" ref="index"/>
+    <file name="u1318-4.png" crc="349599940" ref="index"/>
+    <file name="icon-07.png" crc="3999991277" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-08.png" crc="3940408084" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-09.png" crc="272302844" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-10.png" crc="4200442245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-11.png" crc="4176970984" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-12.png" crc="92587037" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2037-4.png" crc="3878031476" ref="index"/>
+    <file name="a-22-22.png" crc="55903352" ref="a4">
+      <caption webpage="a4" alt=""/>
+    </file>
+    <file name="u8794-4.png" crc="402323000" ref="a4"/>
+    <file name="u8795-4.png" crc="4029465589" ref="a4"/>
+    <file name="u10176-4.png" crc="116254830" ref="new2"/>
+    <file name="u10177-16.png" crc="3826294692" ref="new2"/>
+    <file name="u10180-4.png" crc="3975949384" ref="new2"/>
+    <file name="u10181-4.png" crc="119724770" ref="new2"/>
+    <file name="u14239.png" crc="4143270151" ref="new2"/>
+    <file name="u14239-r.png" crc="453974743" ref="new2"/>
+    <file name="u14240.png" crc="4184367422" ref="new2"/>
+    <file name="u14240-r.png" crc="14781097" ref="new2"/>
+    <file name="u14241.png" crc="194657629" ref="new2"/>
+    <file name="u14241-r.png" crc="60694296" ref="new2"/>
+    <file name="u14242.png" crc="3849279525" ref="new2"/>
+    <file name="u14242-r.png" crc="4190223456" ref="new2"/>
+    <file name="u14243.png" crc="173605007" ref="new2"/>
+    <file name="u14243-r.png" crc="247421369" ref="new2"/>
+    <file name="u14244.png" crc="3993105760" ref="new2"/>
+    <file name="u14244-r.png" crc="477054836" ref="new2"/>
+    <file name="01578205910dd06.jpg" crc="4022302403" ref="new2">
+      <caption webpage="new2" alt=""/>
+    </file>
+    <file name="u14179.png" crc="4143270151" ref="news1"/>
+    <file name="u14179-r.png" crc="453974743" ref="news1"/>
+    <file name="u14180.png" crc="4184367422" ref="news1"/>
+    <file name="u14180-r.png" crc="14781097" ref="news1"/>
+    <file name="u14181.png" crc="194657629" ref="news1"/>
+    <file name="u14181-r.png" crc="60694296" ref="news1"/>
+    <file name="u14182.png" crc="3849279525" ref="news1"/>
+    <file name="u14182-r.png" crc="4190223456" ref="news1"/>
+    <file name="u14183.png" crc="173605007" ref="news1"/>
+    <file name="u14183-r.png" crc="247421369" ref="news1"/>
+    <file name="u14184.png" crc="3993105760" ref="news1"/>
+    <file name="u14184-r.png" crc="477054836" ref="news1"/>
+    <file name="16374663-3a40f06ea2eeb3553e4ea02467677520-0.jpg" crc="80505157" ref="news1">
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="u9782-4.png" crc="4163754728" ref="news1"/>
+    <file name="u9788-10.png" crc="176230724" ref="news1"/>
+    <file name="u9829-4.png" crc="3975949384" ref="news1"/>
+    <file name="u9843-4.png" crc="119724770" ref="news1"/>
+    <file name="u14278.png" crc="4143270151" ref="new3"/>
+    <file name="u14278-r.png" crc="453974743" ref="new3"/>
+    <file name="u14279.png" crc="4184367422" ref="new3"/>
+    <file name="u14279-r.png" crc="14781097" ref="new3"/>
+    <file name="u14280.png" crc="194657629" ref="new3"/>
+    <file name="u14280-r.png" crc="60694296" ref="new3"/>
+    <file name="u14281.png" crc="3849279525" ref="new3"/>
+    <file name="u14281-r.png" crc="4190223456" ref="new3"/>
+    <file name="u14282.png" crc="173605007" ref="new3"/>
+    <file name="u14282-r.png" crc="247421369" ref="new3"/>
+    <file name="u14283.png" crc="3993105760" ref="new3"/>
+    <file name="u14283-r.png" crc="477054836" ref="new3"/>
+    <file name="02.jpg" crc="248547715" ref="new3">
+      <caption webpage="new3" alt=""/>
+    </file>
+    <file name="u10248-4.png" crc="4126563347" ref="new3"/>
+    <file name="u10249-9.png" crc="3955203952" ref="new3"/>
+    <file name="a-05.png" crc="467694487" ref="new3">
+      <caption webpage="new3" alt=""/>
+    </file>
+    <file name="u10252-4.png" crc="3975949384" ref="new3"/>
+    <file name="u10253-4.png" crc="119724770" ref="new3"/>
+    <file name="u10664-4.png" crc="210106973" ref="a5"/>
+    <file name="u10665-4.png" crc="44518749" ref="a5"/>
+    <file name="u10666-4.png" crc="335920490" ref="a5"/>
+    <file name="u10667-4.png" crc="137769954" ref="a5"/>
+    <file name="u10668-4.png" crc="4109411112" ref="a5"/>
+    <file name="6d742b886f3ef5d6f0d5ce7e0e46478e-crop-u10992.png" crc="195448323" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="10-kg-dmcombo-1-na-krx-original-imaepy3rvpqzgqaw.jpg" crc="3841568870" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="57eb64502cc36.jpg" crc="3929795980" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="70eda0cf-12f1-4e4d-a8cf-e3b0964127dc.jpg" crc="3904587564" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="150122.jpg" crc="3837067881" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="images (2).jpg" crc="12050184" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="circuit-training-equipment-crop-u11015.jpg" crc="171887729" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="s-l300-crop-u11023.jpg" crc="4284263094" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="6d742b886f3ef5d6f0d5ce7e0e46478e-crop-u11027.png" crc="462409176" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="10-kg-dmcombo-1-na-krx-original-imaepy3rvpqzgqaw-crop-u11021.jpg" crc="417997559" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="57eb64502cc3690x119.jpg" crc="3979924634" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="70eda0cf-12f1-4e4d-a8cf-e3b0964127dc-crop-u11025.jpg" crc="422518779" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="150122-crop-u11013.jpg" crc="3811450192" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="images (2)-crop-u11019.jpg" crc="394076682" seo="true" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="u11031-10.png" crc="204333430" ref="a5"/>
+    <file name="heart.png" crc="26346220" ref="a5">
+      <caption webpage="a5" alt=""/>
+    </file>
+    <file name="u11547.png" crc="4070361228" ref="1"/>
+    <file name="u11547-r.png" crc="455743873" ref="1"/>
+    <file name="liuxianziseditusucai_5798623.jpg" crc="3902820259" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="b-26.png" crc="4276519180" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4222442672" seo="true" mt="1572924571562" redirect="true"/>
+  <file name="a4.html" crc="195002840" seo="true" mt="1571897989382" redirect="true"/>
+  <file name="new2.html" crc="340494954" seo="true" mt="1571905553810" redirect="true"/>
+  <file name="news1.html" crc="187287932" seo="true" mt="1571900755522" redirect="true"/>
+  <file name="new3.html" crc="167084977" seo="true" mt="1571898523398" redirect="true"/>
+  <file name="a5.html" crc="141242586" seo="true" mt="1571898515564" redirect="true"/>
+  <file name="1.html" crc="244541301" seo="true" mt="1571898974671" redirect="true"/>
+  <file name="2.html" crc="4135442422" seo="true" mt="1571818955295" redirect="true"/>
+</manifest>

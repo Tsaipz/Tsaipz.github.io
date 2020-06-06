@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://index.com/index.html</loc>
+    <lastmod>2019-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.com/images/20180812175538343.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.com/images/20180917004244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.com/images/%E8%A5%BF%E5%AD%90%E7%81%A3%E5%BE%A9%E5%8F%A4%E6%97%A5%E5%BC%8F%E5%86%B0%E5%BA%97%EF%BC%8D%20%E5%8F%A4%E9%8C%90%E5%AE%B6%20%E4%BD%A0%E5%A5%BD!%E7%B4%85%E8%B1%86%E6%B9%AF2.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

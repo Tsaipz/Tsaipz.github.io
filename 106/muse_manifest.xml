@@ -1,0 +1,655 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1573172965357">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4273166531" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u11400.php" crc="211899866" ref="index"/>
+    <file name="form-u11748.php" crc="3786002797" ref="index"/>
+    <file name="form-u12084.php" crc="4175666570" ref="index"/>
+    <file name="form-u12420.php" crc="3903316504" ref="index"/>
+    <file name="form-u12756.php" crc="3777002671" ref="index"/>
+    <file name="form-u13092.php" crc="343432322" ref="index"/>
+    <file name="form-u13764.php" crc="514267153" ref="index"/>
+    <file name="form-u14100.php" crc="431864059" ref="index"/>
+    <file name="form-u14436.php" crc="151760034" ref="index"/>
+    <file name="form-u14772.php" crc="26683372" ref="index"/>
+    <file name="form-u2366.php" crc="4017413147" ref="index"/>
+    <file name="form-u2407.php" crc="1360566" ref="index"/>
+    <file name="form-u2323.php" crc="474172708" ref="index"/>
+    <file name="form-u1983.php" crc="4092000001" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u199_states.png" crc="3958591204" ref="index"/>
+    <file name="u199_states-r.png" crc="3793040213" ref="index"/>
+    <file name="u199_states-a.png" crc="4208970082" ref="index"/>
+    <file name="u206_states.png" crc="17319539" ref="index"/>
+    <file name="u206_states-r.png" crc="501116005" ref="index"/>
+    <file name="u206_states-a.png" crc="3820487715" ref="index"/>
+    <file name="u522_states.png" crc="3908976591" ref="index"/>
+    <file name="u522_states-r.png" crc="3883589121" ref="index"/>
+    <file name="u522_states-a.png" crc="67386536" ref="index"/>
+    <file name="u209_states.png" crc="4000513678" ref="index"/>
+    <file name="u209_states-r.png" crc="101302566" ref="index"/>
+    <file name="u209_states-a.png" crc="3805165769" ref="index"/>
+    <file name="u212_states.png" crc="373317815" ref="index"/>
+    <file name="u212_states-r.png" crc="336652371" ref="index"/>
+    <file name="u212_states-a.png" crc="3878530883" ref="index"/>
+    <file name="u409-4.png" crc="3964797939" ref="index"/>
+    <file name="貼上的影像 1200x500.jpg" crc="4220487044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u18049-4.png" crc="4090265738" ref="index"/>
+    <file name="u18052-4.png" crc="66561597" ref="index"/>
+    <file name="u18055-12.png" crc="32250074" ref="index"/>
+    <file name="a-01.png" crc="167627498" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="terrybearp.jpg" crc="4003751150" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2116-6.png" crc="3823007608" ref="index"/>
+    <file name="a-03.png" crc="226726719" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="販賣機.jpg" crc="4231816835" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2152-9.png" crc="4206506300" ref="index"/>
+    <file name="a-04.png" crc="194617160" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="原料成品照.jpg" crc="390761201" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2188-8.png" crc="43398733" ref="index"/>
+    <file name="u290.png" crc="534366160" ref="index"/>
+    <file name="u290-r.png" crc="371283909" ref="index"/>
+    <file name="u290-a.png" crc="4107966894" ref="index"/>
+    <file name="u288.png" crc="3820252778" ref="index"/>
+    <file name="u288-r.png" crc="401242281" ref="index"/>
+    <file name="u288-a.png" crc="302176247" ref="index"/>
+    <file name="u286.png" crc="3762077075" ref="index"/>
+    <file name="u286-r.png" crc="26051092" ref="index"/>
+    <file name="u286-a.png" crc="4261613742" ref="index"/>
+    <file name="u417-4.png" crc="76233412" ref="index"/>
+    <file name="u480-4.png" crc="3926405210" ref="index"/>
+    <file name="苦甜巧克力-產地委內瑞拉-crop-u420.jpg" crc="3853499277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-13.png" crc="3934403101" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="蘭姆葡萄-crop-u426.jpg" crc="441241730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-14.png" crc="4206422139" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="日式抹茶-產地-靜岡.jpg" crc="4214047774" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-16.png" crc="266230423" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="愛文芒果冰淇淋-crop-u429.jpg" crc="438586858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-17.png" crc="491065192" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="戀戀草莓冰淇淋-crop-u432.jpg" crc="283445360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-19.png" crc="500762457" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u769-10.png" crc="408355898" ref="index"/>
+    <file name="u766-10.png" crc="4100327769" ref="index"/>
+    <file name="u772-10.png" crc="4112335114" ref="index"/>
+    <file name="u775-10.png" crc="3782836798" ref="index"/>
+    <file name="u778-10.png" crc="4073303436" ref="index"/>
+    <file name="香草冰淇淋-crop-u435.jpg" crc="4218128463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="苦甜巧克力-產地委內瑞拉-crop-u1707.jpg" crc="3886391874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="甜蜜蘋果冰淇淋 -crop-u438.jpg" crc="59151536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 131x192.jpg" crc="3762302561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="奶油蜜糖-crop-u1729.jpg" crc="207045438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u790-10.png" crc="259623064" ref="index"/>
+    <file name="u1701-10.png" crc="4226568979" ref="index"/>
+    <file name="u1710-10.png" crc="4176434637" ref="index"/>
+    <file name="u1726-10.png" crc="3802396039" ref="index"/>
+    <file name="u793-10.png" crc="146898298" ref="index"/>
+    <file name="1041122_201312060000119020151122094725.jpg" crc="3780088822" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11429-4.png" crc="8574464" ref="index"/>
+    <file name="u11408.png" crc="55154594" ref="index"/>
+    <file name="u11408-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u11377-7.png" crc="51584159" ref="index"/>
+    <file name="u11397-7.png" crc="97797193" ref="index"/>
+    <file name="u11391-7.png" crc="458306783" ref="index"/>
+    <file name="u11416-7.png" crc="4076412924" ref="index"/>
+    <file name="u11398-7.png" crc="4114352501" ref="index"/>
+    <file name="u11383-7.png" crc="3897887424" ref="index"/>
+    <file name="u11399-7.png" crc="354180368" ref="index"/>
+    <file name="u11376-7.png" crc="3816554268" ref="index"/>
+    <file name="u11389-4.png" crc="502952644" ref="index"/>
+    <file name="u11385-4.png" crc="502952644" ref="index"/>
+    <file name="u11393-4.png" crc="502952644" ref="index"/>
+    <file name="u11386-4.png" crc="502952644" ref="index"/>
+    <file name="u11392-4.png" crc="502952644" ref="index"/>
+    <file name="u11378-4.png" crc="502952644" ref="index"/>
+    <file name="u11380-4.png" crc="502952644" ref="index"/>
+    <file name="u11396-4.png" crc="502952644" ref="index"/>
+    <file name="u11381-7.png" crc="403762705" ref="index"/>
+    <file name="u11418-4.png" crc="502952644" ref="index"/>
+    <file name="u11382-7.png" crc="517587678" ref="index"/>
+    <file name="u11395-4.png" crc="502952644" ref="index"/>
+    <file name="u11765-4.png" crc="8574464" ref="index"/>
+    <file name="u11755.png" crc="55154594" ref="index"/>
+    <file name="u11755-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u11722-7.png" crc="51500814" ref="index"/>
+    <file name="u11718-7.png" crc="97797193" ref="index"/>
+    <file name="u11720-7.png" crc="458306783" ref="index"/>
+    <file name="u11734-7.png" crc="4076412924" ref="index"/>
+    <file name="u11730-7.png" crc="4114352501" ref="index"/>
+    <file name="u11723-7.png" crc="3897887424" ref="index"/>
+    <file name="u11745-7.png" crc="354180368" ref="index"/>
+    <file name="u11740-7.png" crc="3816554268" ref="index"/>
+    <file name="u11731-4.png" crc="502952644" ref="index"/>
+    <file name="u11726-4.png" crc="502952644" ref="index"/>
+    <file name="u11735-4.png" crc="502952644" ref="index"/>
+    <file name="u11719-4.png" crc="502952644" ref="index"/>
+    <file name="u11738-4.png" crc="502952644" ref="index"/>
+    <file name="u11728-4.png" crc="502952644" ref="index"/>
+    <file name="u11743-4.png" crc="502952644" ref="index"/>
+    <file name="u11721-4.png" crc="502952644" ref="index"/>
+    <file name="u11733-7.png" crc="403762705" ref="index"/>
+    <file name="u11727-4.png" crc="502952644" ref="index"/>
+    <file name="u11742-7.png" crc="517587678" ref="index"/>
+    <file name="u11741-4.png" crc="502952644" ref="index"/>
+    <file name="u12101-4.png" crc="8574464" ref="index"/>
+    <file name="u12091.png" crc="55154594" ref="index"/>
+    <file name="u12091-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u12058-7.png" crc="3824807268" ref="index"/>
+    <file name="u12054-7.png" crc="97797193" ref="index"/>
+    <file name="u12056-7.png" crc="458306783" ref="index"/>
+    <file name="u12070-7.png" crc="4076412924" ref="index"/>
+    <file name="u12066-7.png" crc="4114352501" ref="index"/>
+    <file name="u12059-7.png" crc="3897887424" ref="index"/>
+    <file name="u12081-7.png" crc="354180368" ref="index"/>
+    <file name="u12076-7.png" crc="3816554268" ref="index"/>
+    <file name="u12067-4.png" crc="502952644" ref="index"/>
+    <file name="u12062-4.png" crc="502952644" ref="index"/>
+    <file name="u12071-4.png" crc="502952644" ref="index"/>
+    <file name="u12055-4.png" crc="502952644" ref="index"/>
+    <file name="u12074-4.png" crc="502952644" ref="index"/>
+    <file name="u12064-4.png" crc="502952644" ref="index"/>
+    <file name="u12079-4.png" crc="502952644" ref="index"/>
+    <file name="u12057-4.png" crc="502952644" ref="index"/>
+    <file name="u12069-7.png" crc="403762705" ref="index"/>
+    <file name="u12063-4.png" crc="502952644" ref="index"/>
+    <file name="u12078-7.png" crc="517587678" ref="index"/>
+    <file name="u12077-4.png" crc="502952644" ref="index"/>
+    <file name="u12437-4.png" crc="8574464" ref="index"/>
+    <file name="u12427.png" crc="55154594" ref="index"/>
+    <file name="u12427-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u12394-7.png" crc="51500814" ref="index"/>
+    <file name="u12390-7.png" crc="97797193" ref="index"/>
+    <file name="u12392-7.png" crc="458306783" ref="index"/>
+    <file name="u12406-7.png" crc="4076412924" ref="index"/>
+    <file name="u12402-7.png" crc="4114352501" ref="index"/>
+    <file name="u12395-7.png" crc="3897887424" ref="index"/>
+    <file name="u12417-7.png" crc="354180368" ref="index"/>
+    <file name="u12412-7.png" crc="3816554268" ref="index"/>
+    <file name="u12403-4.png" crc="502952644" ref="index"/>
+    <file name="u12398-4.png" crc="502952644" ref="index"/>
+    <file name="u12407-4.png" crc="502952644" ref="index"/>
+    <file name="u12391-4.png" crc="502952644" ref="index"/>
+    <file name="u12410-4.png" crc="502952644" ref="index"/>
+    <file name="u12400-4.png" crc="502952644" ref="index"/>
+    <file name="u12415-4.png" crc="502952644" ref="index"/>
+    <file name="u12393-4.png" crc="502952644" ref="index"/>
+    <file name="u12405-7.png" crc="403762705" ref="index"/>
+    <file name="u12399-4.png" crc="502952644" ref="index"/>
+    <file name="u12414-7.png" crc="517587678" ref="index"/>
+    <file name="u12413-4.png" crc="502952644" ref="index"/>
+    <file name="u12773-4.png" crc="8574464" ref="index"/>
+    <file name="u12763.png" crc="55154594" ref="index"/>
+    <file name="u12763-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u12730-7.png" crc="51500814" ref="index"/>
+    <file name="u12726-7.png" crc="97797193" ref="index"/>
+    <file name="u12728-7.png" crc="458306783" ref="index"/>
+    <file name="u12742-7.png" crc="4076412924" ref="index"/>
+    <file name="u12738-7.png" crc="4114352501" ref="index"/>
+    <file name="u12731-7.png" crc="3897887424" ref="index"/>
+    <file name="u12753-7.png" crc="354180368" ref="index"/>
+    <file name="u12748-7.png" crc="3816554268" ref="index"/>
+    <file name="u12739-4.png" crc="502952644" ref="index"/>
+    <file name="u12734-4.png" crc="502952644" ref="index"/>
+    <file name="u12743-4.png" crc="502952644" ref="index"/>
+    <file name="u12727-4.png" crc="502952644" ref="index"/>
+    <file name="u12746-4.png" crc="502952644" ref="index"/>
+    <file name="u12736-4.png" crc="502952644" ref="index"/>
+    <file name="u12751-4.png" crc="502952644" ref="index"/>
+    <file name="u12729-4.png" crc="502952644" ref="index"/>
+    <file name="u12741-7.png" crc="403762705" ref="index"/>
+    <file name="u12735-4.png" crc="502952644" ref="index"/>
+    <file name="u12750-7.png" crc="517587678" ref="index"/>
+    <file name="u12749-4.png" crc="502952644" ref="index"/>
+    <file name="u13109-4.png" crc="8574464" ref="index"/>
+    <file name="u13099.png" crc="55154594" ref="index"/>
+    <file name="u13099-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u13066-7.png" crc="51500814" ref="index"/>
+    <file name="u13062-7.png" crc="97797193" ref="index"/>
+    <file name="u13064-7.png" crc="458306783" ref="index"/>
+    <file name="u13078-7.png" crc="4076412924" ref="index"/>
+    <file name="u13074-7.png" crc="4114352501" ref="index"/>
+    <file name="u13067-7.png" crc="3897887424" ref="index"/>
+    <file name="u13089-7.png" crc="354180368" ref="index"/>
+    <file name="u13084-7.png" crc="3816554268" ref="index"/>
+    <file name="u13075-4.png" crc="502952644" ref="index"/>
+    <file name="u13070-4.png" crc="502952644" ref="index"/>
+    <file name="u13079-4.png" crc="502952644" ref="index"/>
+    <file name="u13063-4.png" crc="502952644" ref="index"/>
+    <file name="u13082-4.png" crc="502952644" ref="index"/>
+    <file name="u13072-4.png" crc="502952644" ref="index"/>
+    <file name="u13087-4.png" crc="502952644" ref="index"/>
+    <file name="u13065-4.png" crc="502952644" ref="index"/>
+    <file name="u13077-7.png" crc="403762705" ref="index"/>
+    <file name="u13071-4.png" crc="502952644" ref="index"/>
+    <file name="u13086-7.png" crc="517587678" ref="index"/>
+    <file name="u13085-4.png" crc="502952644" ref="index"/>
+    <file name="u13781-4.png" crc="8574464" ref="index"/>
+    <file name="u13771.png" crc="55154594" ref="index"/>
+    <file name="u13771-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u13738-7.png" crc="51500814" ref="index"/>
+    <file name="u13734-7.png" crc="97797193" ref="index"/>
+    <file name="u13736-7.png" crc="458306783" ref="index"/>
+    <file name="u13750-7.png" crc="4076412924" ref="index"/>
+    <file name="u13746-7.png" crc="4114352501" ref="index"/>
+    <file name="u13739-7.png" crc="3897887424" ref="index"/>
+    <file name="u13761-7.png" crc="354180368" ref="index"/>
+    <file name="u13756-7.png" crc="3816554268" ref="index"/>
+    <file name="u13747-4.png" crc="502952644" ref="index"/>
+    <file name="u13742-4.png" crc="502952644" ref="index"/>
+    <file name="u13751-4.png" crc="502952644" ref="index"/>
+    <file name="u13735-4.png" crc="502952644" ref="index"/>
+    <file name="u13754-4.png" crc="502952644" ref="index"/>
+    <file name="u13744-4.png" crc="502952644" ref="index"/>
+    <file name="u13759-4.png" crc="502952644" ref="index"/>
+    <file name="u13737-4.png" crc="502952644" ref="index"/>
+    <file name="u13749-7.png" crc="403762705" ref="index"/>
+    <file name="u13743-4.png" crc="502952644" ref="index"/>
+    <file name="u13758-7.png" crc="517587678" ref="index"/>
+    <file name="u13757-4.png" crc="502952644" ref="index"/>
+    <file name="u14117-4.png" crc="8574464" ref="index"/>
+    <file name="u14107.png" crc="55154594" ref="index"/>
+    <file name="u14107-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u14074-7.png" crc="51500814" ref="index"/>
+    <file name="u14070-7.png" crc="97797193" ref="index"/>
+    <file name="u14072-7.png" crc="458306783" ref="index"/>
+    <file name="u14086-7.png" crc="4076412924" ref="index"/>
+    <file name="u14082-7.png" crc="4114352501" ref="index"/>
+    <file name="u14075-7.png" crc="3897887424" ref="index"/>
+    <file name="u14097-7.png" crc="354180368" ref="index"/>
+    <file name="u14092-7.png" crc="3816554268" ref="index"/>
+    <file name="u14083-4.png" crc="502952644" ref="index"/>
+    <file name="u14078-4.png" crc="502952644" ref="index"/>
+    <file name="u14087-4.png" crc="502952644" ref="index"/>
+    <file name="u14071-4.png" crc="502952644" ref="index"/>
+    <file name="u14090-4.png" crc="502952644" ref="index"/>
+    <file name="u14080-4.png" crc="502952644" ref="index"/>
+    <file name="u14095-4.png" crc="502952644" ref="index"/>
+    <file name="u14073-4.png" crc="502952644" ref="index"/>
+    <file name="u14085-7.png" crc="403762705" ref="index"/>
+    <file name="u14079-4.png" crc="502952644" ref="index"/>
+    <file name="u14094-7.png" crc="517587678" ref="index"/>
+    <file name="u14093-4.png" crc="502952644" ref="index"/>
+    <file name="u14453-4.png" crc="8574464" ref="index"/>
+    <file name="u14443.png" crc="55154594" ref="index"/>
+    <file name="u14443-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u14410-7.png" crc="51500814" ref="index"/>
+    <file name="u14406-7.png" crc="97797193" ref="index"/>
+    <file name="u14408-7.png" crc="458306783" ref="index"/>
+    <file name="u14422-7.png" crc="4076412924" ref="index"/>
+    <file name="u14418-7.png" crc="4114352501" ref="index"/>
+    <file name="u14411-7.png" crc="3897887424" ref="index"/>
+    <file name="u14433-7.png" crc="354180368" ref="index"/>
+    <file name="u14428-7.png" crc="3816554268" ref="index"/>
+    <file name="u14419-4.png" crc="502952644" ref="index"/>
+    <file name="u14414-4.png" crc="502952644" ref="index"/>
+    <file name="u14423-4.png" crc="502952644" ref="index"/>
+    <file name="u14407-4.png" crc="502952644" ref="index"/>
+    <file name="u14426-4.png" crc="502952644" ref="index"/>
+    <file name="u14416-4.png" crc="502952644" ref="index"/>
+    <file name="u14431-4.png" crc="502952644" ref="index"/>
+    <file name="u14409-4.png" crc="502952644" ref="index"/>
+    <file name="u14421-7.png" crc="403762705" ref="index"/>
+    <file name="u14415-4.png" crc="502952644" ref="index"/>
+    <file name="u14430-7.png" crc="517587678" ref="index"/>
+    <file name="u14429-4.png" crc="502952644" ref="index"/>
+    <file name="u14789-4.png" crc="8574464" ref="index"/>
+    <file name="u14779.png" crc="55154594" ref="index"/>
+    <file name="u14779-ferr.png" crc="3873350609" ref="index"/>
+    <file name="u14746-7.png" crc="51500814" ref="index"/>
+    <file name="u14742-7.png" crc="97797193" ref="index"/>
+    <file name="u14744-7.png" crc="458306783" ref="index"/>
+    <file name="u14758-7.png" crc="4076412924" ref="index"/>
+    <file name="u14754-7.png" crc="4114352501" ref="index"/>
+    <file name="u14747-7.png" crc="3897887424" ref="index"/>
+    <file name="u14769-7.png" crc="354180368" ref="index"/>
+    <file name="u14764-7.png" crc="3816554268" ref="index"/>
+    <file name="u14755-4.png" crc="502952644" ref="index"/>
+    <file name="u14750-4.png" crc="502952644" ref="index"/>
+    <file name="u14759-4.png" crc="502952644" ref="index"/>
+    <file name="u14743-4.png" crc="502952644" ref="index"/>
+    <file name="u14762-4.png" crc="502952644" ref="index"/>
+    <file name="u14752-4.png" crc="502952644" ref="index"/>
+    <file name="u14767-4.png" crc="502952644" ref="index"/>
+    <file name="u14745-4.png" crc="502952644" ref="index"/>
+    <file name="u14757-7.png" crc="403762705" ref="index"/>
+    <file name="u14751-4.png" crc="502952644" ref="index"/>
+    <file name="u14766-7.png" crc="517587678" ref="index"/>
+    <file name="u14765-4.png" crc="502952644" ref="index"/>
+    <file name="u11035.png" crc="72368404" ref="index"/>
+    <file name="u11035-r.png" crc="4055466550" ref="index"/>
+    <file name="u11035-a.png" crc="72368404" ref="index"/>
+    <file name="u11075.png" crc="72368404" ref="index"/>
+    <file name="u11075-r.png" crc="4055466550" ref="index"/>
+    <file name="u11075-a.png" crc="72368404" ref="index"/>
+    <file name="u11164.png" crc="72368404" ref="index"/>
+    <file name="u11164-r.png" crc="4055466550" ref="index"/>
+    <file name="u11164-a.png" crc="72368404" ref="index"/>
+    <file name="u11169.png" crc="72368404" ref="index"/>
+    <file name="u11169-r.png" crc="4055466550" ref="index"/>
+    <file name="u11169-a.png" crc="72368404" ref="index"/>
+    <file name="u11175.png" crc="72368404" ref="index"/>
+    <file name="u11175-r.png" crc="4055466550" ref="index"/>
+    <file name="u11175-a.png" crc="72368404" ref="index"/>
+    <file name="u11181.png" crc="72368404" ref="index"/>
+    <file name="u11181-r.png" crc="4055466550" ref="index"/>
+    <file name="u11181-a.png" crc="72368404" ref="index"/>
+    <file name="u11187.png" crc="72368404" ref="index"/>
+    <file name="u11187-r.png" crc="4055466550" ref="index"/>
+    <file name="u11187-a.png" crc="72368404" ref="index"/>
+    <file name="u11193.png" crc="72368404" ref="index"/>
+    <file name="u11193-r.png" crc="4055466550" ref="index"/>
+    <file name="u11193-a.png" crc="72368404" ref="index"/>
+    <file name="u11199.png" crc="72368404" ref="index"/>
+    <file name="u11199-r.png" crc="4055466550" ref="index"/>
+    <file name="u11199-a.png" crc="72368404" ref="index"/>
+    <file name="u11205.png" crc="72368404" ref="index"/>
+    <file name="u11205-r.png" crc="4055466550" ref="index"/>
+    <file name="u11205-a.png" crc="72368404" ref="index"/>
+    <file name="a-18.png" crc="4014420775" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-15.png" crc="522688341" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u510-4.png" crc="372152143" ref="index"/>
+    <file name="u507-4.png" crc="163718795" ref="index"/>
+    <file name="aib018013.jpg" crc="4272831716" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9將溶化混合好後的巧克力倒入煮沸的牛奶當中開始熬煮15小時 過程須不停攪拌 讓巧克力和牛奶完全混合在一起不會結塊.jpg" crc="27459378" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="terrybearp2.jpg" crc="4003751150" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon01-u1392-fr.png" crc="3829047240" ref="index"/>
+    <file name="u1394-4.png" crc="4035337347" ref="index"/>
+    <file name="u1393-4.png" crc="3822357586" ref="index"/>
+    <file name="b-09-u16184-fr.png" crc="517477516" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1430-4.png" crc="4035337347" ref="index"/>
+    <file name="u1431-4.png" crc="3822357586" ref="index"/>
+    <file name="u1419-4.png" crc="4035337347" ref="index"/>
+    <file name="u1417-4.png" crc="3822357586" ref="index"/>
+    <file name="u1445.png" crc="476035000" ref="index"/>
+    <file name="u1445-a.png" crc="476035000" ref="index"/>
+    <file name="u1443-4.png" crc="3984288647" ref="index"/>
+    <file name="u1441-4.png" crc="129008455" ref="index"/>
+    <file name="youtube.png" crc="266671421" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2780-15.png" crc="4123088739" ref="index"/>
+    <file name="u2779-12.png" crc="518947348" ref="index"/>
+    <file name="u2778-12.png" crc="4124685001" ref="index"/>
+    <file name="u516-4.png" crc="304715246" ref="index"/>
+    <file name="u513-4.png" crc="98296940" ref="index"/>
+    <file name="aib013032.jpg" crc="385146135" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16228-4.png" crc="3960499566" ref="index"/>
+    <file name="u16231-15.png" crc="325955399" ref="index"/>
+    <file name="u16245-6.png" crc="4218534132" ref="index"/>
+    <file name="甜蜜蘋果冰淇淋 _00.jpg" crc="68691622" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-21.png" crc="3912888250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17975-4.png" crc="129221448" ref="index"/>
+    <file name="u17974-9.png" crc="4111088911" ref="index"/>
+    <file name="u17973-10.png" crc="3883505913" ref="index"/>
+    <file name="u19386-11.png" crc="483100967" ref="index"/>
+    <file name="u16273-8.png" crc="4073560744" ref="index"/>
+    <file name="img_4929.png" crc="273867481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-20.png" crc="4072452975" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2305-4.png" crc="3795406211" ref="index"/>
+    <file name="u2312-4.png" crc="313260767" ref="index"/>
+    <file name="a-06.jpg" crc="363803983" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1041122_201312060000119020151122094725-u17031-fr.png" crc="4211394346" ref="index"/>
+    <file name="u17130-6.png" crc="3787968969" ref="index"/>
+    <file name="1採用委內瑞拉72-巧克力.jpg" crc="4150588190" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="272-巧克力.jpg" crc="531021989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3混和些許黑苦甜巧克力調合味道.jpg" crc="3857016035" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4依比例隔水溶煮.jpg" crc="283530365" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5秤出細砂糖.jpg" crc="324044958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6採用職人鮮奶(擁有較佳的乳脂肪會使冰淇淋口感及風味更好).jpg" crc="4003510682" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7倒入牛奶煮沸殺菌.jpg" crc="4032044619" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8隔水加熱約15分鐘後開始攪拌.jpg" crc="506709411" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9將溶化混合好後的巧克力倒入煮沸的牛奶當中開始熬煮15小時 過程須不停攪拌 讓巧克力和牛奶完全混合在一起不會結塊2.jpg" crc="104734868" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10熬煮混合後 隔水降溫及陳化2小時.jpg" crc="3817450522" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11加入鮮奶油打發混入陳化後的巧克力液中.jpg" crc="469709100" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12加入君度橙酒讓澄酒去帶出巧克力的風味 讓冰淇淋味道更有層次.jpg" crc="488528094" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13倒入冰淇淋機器後開始製冰.jpg" crc="30054954" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14做出冰淇淋後放置冷凍櫃3小時後即可裝盒.jpg" crc="54060487" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17548-4.png" crc="446618301" ref="index"/>
+    <file name="u17546-4.png" crc="168835481" ref="index"/>
+    <file name="u17540-4.png" crc="4020906099" ref="index"/>
+    <file name="u17562-4.png" crc="4182836152" ref="index"/>
+    <file name="u17552-4.png" crc="67648352" ref="index"/>
+    <file name="u17538-4.png" crc="219759846" ref="index"/>
+    <file name="u17560-4.png" crc="3765761084" ref="index"/>
+    <file name="u17542-4.png" crc="3835877178" ref="index"/>
+    <file name="u17550-4.png" crc="452601813" ref="index"/>
+    <file name="u17556-4.png" crc="117324063" ref="index"/>
+    <file name="u17544-4.png" crc="33692684" ref="index"/>
+    <file name="u17554-4.png" crc="4187930355" ref="index"/>
+    <file name="u17558-4.png" crc="3859452888" ref="index"/>
+    <file name="u17564-4.png" crc="3781855368" ref="index"/>
+    <file name="苦甜巧克力-產地委內瑞拉_00.jpg" crc="3951356031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-05.jpg" crc="3852177528" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-07.png" crc="151948827" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2311-9.png" crc="136330159" ref="index"/>
+    <file name="u2309-9.png" crc="61060408" ref="index"/>
+    <file name="u2310-9.png" crc="3923430089" ref="index"/>
+    <file name="u486-4.png" crc="198900471" ref="index"/>
+    <file name="u483-4.png" crc="345825412" ref="index"/>
+    <file name="a-11-u15811-fr.png" crc="129308967" ref="index"/>
+    <file name="u15825-4.png" crc="3775560002" ref="index"/>
+    <file name="u15828-6.png" crc="253043248" ref="index"/>
+    <file name="九把刀路過臉書po文-crop-u16086.jpg" crc="4114791287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u15846-4.png" crc="19489880" ref="index"/>
+    <file name="u15843-11.png" crc="4012481130" ref="index"/>
+    <file name="販賣機-crop-u16099.jpg" crc="4059474352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u15969-4.png" crc="147646602" ref="index"/>
+    <file name="u15966-10.png" crc="3817064592" ref="index"/>
+    <file name="logo.png" crc="4021354913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u137_states.png" crc="451015802" ref="index"/>
+    <file name="u137_states-a.png" crc="451015802" ref="index"/>
+    <file name="u138-4.png" crc="387242379" ref="index"/>
+    <file name="u222.png" crc="4106102385" ref="index"/>
+    <file name="u222-a.png" crc="4106102385" ref="index"/>
+    <file name="u227-4.png" crc="4255908423" ref="index"/>
+    <file name="a-09.png" crc="535302750" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 1410x272.jpg" crc="4085402617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u19502_states.png" crc="222088568" ref="index"/>
+    <file name="u19502_states-r.png" crc="515709259" ref="index"/>
+    <file name="u19502_states-a.png" crc="222088568" ref="index"/>
+    <file name="a-08.png" crc="400989304" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aib018013-u2355-fr.jpg" crc="4032629921" ref="index"/>
+    <file name="u2356-4.png" crc="336415553" ref="index"/>
+    <file name="u2386.png" crc="324744677" ref="index"/>
+    <file name="u2386-ferr.png" crc="4265578636" ref="index"/>
+    <file name="u2369.png" crc="4013143025" ref="index"/>
+    <file name="u2369-ferr.png" crc="489106112" ref="index"/>
+    <file name="u2381.png" crc="323800382" ref="index"/>
+    <file name="u2381-ferr.png" crc="3942173112" ref="index"/>
+    <file name="u2375.png" crc="4273132418" ref="index"/>
+    <file name="u2375-ferr.png" crc="280881709" ref="index"/>
+    <file name="u2389-4.png" crc="143920069" ref="index"/>
+    <file name="u2388-6.png" crc="4125413354" ref="index"/>
+    <file name="u2434-4.png" crc="192372604" ref="index"/>
+    <file name="u2418.png" crc="4223985026" ref="index"/>
+    <file name="u2418-ferr.png" crc="4250245510" ref="index"/>
+    <file name="u2427.png" crc="4013143025" ref="index"/>
+    <file name="u2427-ferr.png" crc="489106112" ref="index"/>
+    <file name="u2411.png" crc="323800382" ref="index"/>
+    <file name="u2411-ferr.png" crc="3942173112" ref="index"/>
+    <file name="u2422.png" crc="4273132418" ref="index"/>
+    <file name="u2422-ferr.png" crc="280881709" ref="index"/>
+    <file name="u2430-4.png" crc="143920069" ref="index"/>
+    <file name="u2431-6.png" crc="4125413354" ref="index"/>
+    <file name="u2404.png" crc="3916543756" ref="index"/>
+    <file name="u2404-a.png" crc="47978261" ref="index"/>
+    <file name="u2354-4.png" crc="129560440" ref="index"/>
+    <file name="u2329.png" crc="324744677" ref="index"/>
+    <file name="u2329-ferr.png" crc="4265578636" ref="index"/>
+    <file name="u2333.png" crc="4013143025" ref="index"/>
+    <file name="u2333-ferr.png" crc="489106112" ref="index"/>
+    <file name="u2337.png" crc="323800382" ref="index"/>
+    <file name="u2337-ferr.png" crc="3942173112" ref="index"/>
+    <file name="u2342.png" crc="4273132418" ref="index"/>
+    <file name="u2342-ferr.png" crc="280881709" ref="index"/>
+    <file name="u2320-4.png" crc="143920069" ref="index"/>
+    <file name="u2319-6.png" crc="4125413354" ref="index"/>
+    <file name="u2439.png" crc="3872766255" ref="index"/>
+    <file name="u2439-r.png" crc="3927106029" ref="index"/>
+    <file name="u2439-a.png" crc="70101277" ref="index"/>
+    <file name="u2437.png" crc="3872766255" ref="index"/>
+    <file name="u2437-r.png" crc="3927106029" ref="index"/>
+    <file name="u2437-a.png" crc="70101277" ref="index"/>
+    <file name="u2441.png" crc="3872766255" ref="index"/>
+    <file name="u2441-r.png" crc="3927106029" ref="index"/>
+    <file name="u2441-a.png" crc="70101277" ref="index"/>
+    <file name="u1963-4.png" crc="353861247" ref="index"/>
+    <file name="u1965-8.png" crc="24085585" ref="index"/>
+    <file name="u1962-4.png" crc="4088122284" ref="index"/>
+    <file name="u1968-4.png" crc="4167427836" ref="index"/>
+    <file name="u1986.png" crc="4073530014" ref="index"/>
+    <file name="u1986-ferr.png" crc="4291203731" ref="index"/>
+    <file name="u2006.png" crc="4149742574" ref="index"/>
+    <file name="u2006-r.png" crc="310030358" ref="index"/>
+    <file name="u2006-a.png" crc="4149742574" ref="index"/>
+    <file name="u1970-4.png" crc="4150887746" ref="index"/>
+    <file name="u1969-4.png" crc="3847907339" ref="index"/>
+    <file name="u1967-4.png" crc="140119293" ref="index"/>
+    <file name="u1971-4.png" crc="4108818672" ref="index"/>
+    <file name="u1972-4.png" crc="4141226628" ref="index"/>
+    <file name="u1966-4.png" crc="399682957" ref="index"/>
+    <file name="u196-4.png" crc="3813438032" ref="index"/>
+    <file name="u1961-4.png" crc="3951609514" ref="index"/>
+    <file name="u1964-14.png" crc="4119891928" ref="index"/>
+    <file name="u2788-4.png" crc="366998249" ref="index"/>
+    <file name="a-10.png" crc="3809557890" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4178392855" seo="true" mt="1573172805575" redirect="true"/>
+</manifest>

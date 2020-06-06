@@ -1,0 +1,73 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<Meta http-equiv="ReFresh" Content="3; URL=./000.html">
+<Meta http-equiv="Page-Exit" Content="RevealTrans((Duration3,Transition=6)">
+<title>甲仙小旅行</title>
+
+</head>
+<style>
+body {
+	color: #333;
+	background-image: url(images/bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-color: #FFF9F9;
+}
+#progressbar{
+	height: 26px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 200px;
+	border-radius: 10px;
+	margin: -20px 0 0 -100px;
+	padding: 2px;
+	margin-top: 100px;
+	background-color: rgba(52,0,77,0.5);
+}
+#loading{
+	transition: all 500ms ease;
+	height: 20px;
+	width: calc(100% - 10px);
+	border-radius: 8px;
+	position: absolute;
+	margin: 3px;
+	display: inline-block;
+	animation: load 3s ease infinite;
+	background-color: #D2B8FA;
+}
+#load{
+	font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	margin-top: -30px;
+	color: #FFF;
+}
+#load1{
+  text-align: center;
+  margin-top: -230px;
+}
+
+@keyframes load{
+  0%{
+    width: 2%;
+  }
+  10%{
+    width: 10%;
+  }
+}
+</style>
+<body>
+<div id="progressbar">
+  <span id="loading"></span>
+  <div id="load">loading</div>
+  <div id="load1"><img src="images/a-02.png" width="200" height="200" /></div>
+ 
+</div>
+<script>
+</script>
+</body>
+</html>

@@ -1,0 +1,336 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1569679734194">
+  <folder name="css">
+    <file name="site_global.css" crc="186198355"/>
+    <file name="a-9.css" crc="188882236" ref="a-9"/>
+    <file name="a-6.css" crc="4150759678" ref="a-6"/>
+    <file name="index.css" crc="3856971850" ref="index"/>
+    <file name="a-7.css" crc="3916109181" ref="a-7"/>
+    <file name="a-3.css" crc="327001745" ref="a-3"/>
+    <file name="a-8.css" crc="4275456444" ref="a-8"/>
+    <file name="a-2.css" crc="333410788" ref="a-2"/>
+    <file name="a-1.css" crc="8112337" ref="a-1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:a-1:a-2:a-3:a-6:a-7:a-8:a-9"/>
+    <file name="museutils.js" crc="3803043152" ref="index:a-1:a-2:a-3:a-6:a-7:a-8:a-9"/>
+    <file name="whatinput.js" crc="86476730" ref="index:a-1:a-2:a-3:a-6:a-7:a-8:a-9"/>
+    <file name="museconfig.js" crc="380897831" ref="index:a-1:a-2:a-3:a-6:a-7:a-8:a-9"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:a-1:a-2:a-3:a-6:a-7:a-8"/>
+    <file name="webpro.js" crc="242022427" ref="index:a-1:a-3:a-6"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:a-3"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:a-3"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:a-3"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1265.php" crc="462068225" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:a-1:a-2:a-3:a-6:a-7:a-8:a-9"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:a-1:a-2:a-3:a-6:a-7:a-8:a-9"/>
+    <file name="form-u2369.php" crc="4268982220" ref="a-1"/>
+    <file name="form-u4911.php" crc="246229264" ref="a-6"/>
+  </folder>
+  <folder name="images">
+    <file name="u118-4.png" crc="3973386240" ref="index"/>
+    <file name="u154-4.png" crc="3794238399" ref="index"/>
+    <file name="u148-4.png" crc="3982735659" ref="index"/>
+    <file name="car.png" crc="311545449" ref="index:a-3">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u142-4.png" crc="533295880" ref="index"/>
+    <file name="u8423-4.png" crc="175760026" ref="index"/>
+    <file name="u114-4.png" crc="399190382" ref="index"/>
+    <file name="u124-4.png" crc="76111752" ref="index"/>
+    <file name="u130-4.png" crc="4286433998" ref="index"/>
+    <file name="name1-u8911-fr.png" crc="4128901193" ref="index:a-3"/>
+    <file name="b-01.jpg" crc="4020758528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:a-3"/>
+    <file name="b-02.png" crc="4278608338" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-03.png" crc="350618284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:a-3"/>
+    <file name="a-01.jpg" crc="4209406291" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-03.jpg" crc="4200062023" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a-02.jpg" crc="3793488616" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1764-11.png" crc="3978368972" ref="index"/>
+    <file name="u1778-9.png" crc="508047264" ref="index"/>
+    <file name="u1772-11.png" crc="133889076" ref="index"/>
+    <file name="tea_p05.jpg" crc="173138935" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1先以沸水温茶壶、茶杯.jpg" crc="4090536746" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1381-4.png" crc="4090080188" ref="index"/>
+    <file name="u1413-4.png" crc="517118726" ref="index"/>
+    <file name="u1397-4.png" crc="4051523948" ref="index"/>
+    <file name="u1437-4.png" crc="468176729" ref="index"/>
+    <file name="u1385-4.png" crc="212967380" ref="index"/>
+    <file name="u1431-4.png" crc="3958663115" ref="index"/>
+    <file name="u225-4.png" crc="3970858038" ref="index"/>
+    <file name="u229-4.png" crc="3887160165" ref="index"/>
+    <file name="b-01-crop-u10081.jpg" crc="3904682175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-03-crop-u10148.png" crc="81882816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2.png" crc="68139242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b1.jpg" crc="4157840710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10078-15.png" crc="380470120" ref="index"/>
+    <file name="u10167-18.png" crc="344705439" ref="index"/>
+    <file name="u10206-17.png" crc="373533635" ref="index"/>
+    <file name="u10245-15.png" crc="3887957239" ref="index"/>
+    <file name="c-10.png" crc="4285423992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u293-4.png" crc="3882611526" ref="index"/>
+    <file name="u294-4.png" crc="3872279798" ref="index"/>
+    <file name="大禹嶺雪烏龍.jpg" crc="4289153061" seo="true" ref="index:a-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="蜜香紅茶包.jpg" crc="212554682" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-01-u2272-fr.png" crc="490208066" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo.jpg" crc="250653290" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="冷泡茶輕鬆三步驟_5.jpg" crc="279182523" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hot-01-u5470-fr.png" crc="329754721" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c1956a206151fcf4.jpg" crc="254193125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3753-13.png" crc="418325612" ref="index"/>
+    <file name="u8631-13.png" crc="418325612" ref="index"/>
+    <file name="u8625-13.png" crc="418325612" ref="index"/>
+    <file name="u8619-13.png" crc="418325612" ref="index"/>
+    <file name="u8613-13.png" crc="418325612" ref="index"/>
+    <file name="tooopen_sy_224611816887-u520-fr.png" crc="218061839" ref="index"/>
+    <file name="u530-4.png" crc="4016491630" ref="index"/>
+    <file name="u531-4.png" crc="524669145" ref="index"/>
+    <file name="c-05.png" crc="183186861" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6品茶。-u1072-r-fr.png" crc="3823976735" ref="index"/>
+    <file name="c-02.png" crc="4288246699" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2013台灣好茶茶餅-u1091-r-fr.png" crc="470066356" ref="index"/>
+    <file name="u1076-16.png" crc="4031350776" ref="index"/>
+    <file name="u1092-16.png" crc="178377309" ref="index"/>
+    <file name="c-04.png" crc="3871757923" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2把水倒净，置入茶叶-u1080-r-fr.png" crc="406666022" ref="index"/>
+    <file name="u1081-18.png" crc="142677527" ref="index"/>
+    <file name="u2172_states.png" crc="3821433473" ref="index"/>
+    <file name="u2172_states-r.png" crc="3919648368" ref="index"/>
+    <file name="u2176_states.png" crc="3821433473" ref="index"/>
+    <file name="u2176_states-r.png" crc="3919648368" ref="index"/>
+    <file name="u2182_states.png" crc="3821433473" ref="index"/>
+    <file name="u2182_states-r.png" crc="3919648368" ref="index"/>
+    <file name="53da5e6f38cb92d44f41c0a05db4-1447789.jpg" crc="4086202346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u730-4.png" crc="3826759790" ref="index"/>
+    <file name="u738-4.png" crc="3758912758" ref="index"/>
+    <file name="759b1c3d61b067a1ad4d618888f43282-u564-fr.png" crc="4254336020" ref="index"/>
+    <file name="u570-4.png" crc="3947408856" ref="index"/>
+    <file name="u571-4.png" crc="3941453674" ref="index"/>
+    <file name="u1148.png" crc="49691899" ref="index"/>
+    <file name="u1148-a.png" crc="451785381" ref="index"/>
+    <file name="ca.png" crc="208840020" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6039-10.png" crc="243992797" ref="index"/>
+    <file name="star_03_03.png" crc="3978142126" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u697-4.png" crc="4250434537" ref="index"/>
+    <file name="u698-4.png" crc="3775881002" ref="index"/>
+    <file name="e22-01.jpg" crc="39240711" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1266.png" crc="3839594107" ref="index"/>
+    <file name="u1266-r.png" crc="3850808520" ref="index"/>
+    <file name="name1.png" crc="135080634" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e3.png" crc="4192650440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2791-4.png" crc="90565419" ref="index"/>
+    <file name="e4.png" crc="135511017" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2807-4.png" crc="3918927793" ref="index"/>
+    <file name="c-07.png" crc="1307378" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2795-4.png" crc="398278791" ref="index"/>
+    <file name="c-06.png" crc="4251916502" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9788-4.png" crc="4230531869" ref="index"/>
+    <file name="c-08.png" crc="192588154" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2801-4.png" crc="202499343" ref="index"/>
+    <file name="fb.png" crc="4230252237" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb!.png" crc="3879452558" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.png" crc="150544855" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line!.png" crc="4274740255" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g-.png" crc="480684518" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g--.png" crc="3829171544" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2220-4.png" crc="3885383714" ref="index"/>
+    <file name="c-09-09.png" crc="259478328" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u712-4.png" crc="371288776" ref="index"/>
+    <file name="u716-4.png" crc="4188056743" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="4041065271" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="421393327" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="119826174" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="8340162" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="461578639" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="3782867047" ref="a-1">
+      <caption webpage="a-1" alt=""/>
+    </file>
+    <file name="a-2.png" crc="211735829" ref="a-2">
+      <caption webpage="a-2" alt=""/>
+    </file>
+    <file name="u9989-4.png" crc="3973386240" ref="a-3"/>
+    <file name="u9995-4.png" crc="3794238399" ref="a-3"/>
+    <file name="u9994-4-a.png" crc="3982735659" ref="a-3"/>
+    <file name="u9993-4.png" crc="533295880" ref="a-3"/>
+    <file name="u9992-4.png" crc="175760026" ref="a-3"/>
+    <file name="u9987-4.png" crc="399190382" ref="a-3"/>
+    <file name="u9986-4.png" crc="76111752" ref="a-3"/>
+    <file name="u9991-4.png" crc="4286433998" ref="a-3"/>
+    <file name="u3397-4.png" crc="487620529" ref="a-3"/>
+    <file name="日月潭紅茶.jpg" crc="112780456" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="台灣功夫紅茶.jpg" crc="4612082" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="冷泡茶包.jpg" crc="236064898" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="杉林溪茶-crop-u9445.jpg" crc="3929425072" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="凍頂烏龍茶.jpg" crc="4066622317" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="茶香南瓜子.jpg" crc="429189950" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="福壽梨山茶-crop-u9538.jpg" crc="135957082" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="蜜香紅茶.jpg" crc="4135618827" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="蜜香紅茶包2.jpg" crc="211966091" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="大禹嶺雪烏龍-crop-u3355.jpg" crc="3972083226" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="日月潭紅茶-crop-u9361.jpg" crc="434299009" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="台灣功夫紅茶-crop-u9392.jpg" crc="5830320" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="冷泡茶包-crop-u9423.jpg" crc="527318763" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="杉林溪茶61x92.jpg" crc="3986271237" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="凍頂烏龍茶-crop-u9485.jpg" crc="3988908643" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="茶香南瓜子61x92.jpg" crc="441534278" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="福壽梨山茶61x92.jpg" crc="340104761" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="蜜香紅茶-crop-u9578.jpg" crc="3762900977" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="蜜香紅茶包-crop-u9609.jpg" crc="502395805" seo="true" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="u3113-9.png" crc="183794181" ref="a-3"/>
+    <file name="heart.png" crc="26346220" ref="a-3">
+      <caption webpage="a-3" alt=""/>
+    </file>
+    <file name="pen-01.png" crc="4140865161" ref="a-6">
+      <caption webpage="a-6" alt=""/>
+    </file>
+    <file name="chack.png" crc="3858883739" ref="a-7">
+      <caption webpage="a-7" alt=""/>
+    </file>
+    <file name="line!2.png" crc="4274740255" ref="a-8">
+      <caption webpage="a-8" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="197619385" seo="true" mt="1569678539538" redirect="true"/>
+  <file name="a-1.html" crc="441662757" seo="true" mt="1569676535808" redirect="true"/>
+  <file name="a-2.html" crc="41712568" seo="true" mt="1569676866603" redirect="true"/>
+  <file name="a-3.html" crc="101668856" seo="true" mt="1569676444073" redirect="true"/>
+  <file name="a-6.html" crc="4003239778" seo="true" mt="1569677674965" redirect="true"/>
+  <file name="a-7.html" crc="4253536379" seo="true" mt="1569647750257" redirect="true"/>
+  <file name="a-8.html" crc="4103084651" seo="true" mt="1569647597575" redirect="true"/>
+  <file name="a-9.html" crc="3811501569" seo="true" mt="1569245967347" redirect="true"/>
+</manifest>

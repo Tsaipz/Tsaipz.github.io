@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://index.html/index.html</loc>
+    <lastmod>2019-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%20143x31-crop-u2731.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/6eaae17b287b9237d2c9d99bc9dffc1d51fa237c601272.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/800x0%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/800x0.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/d1577095.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/origins_sku_0px901_500x625_0-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/6eaae17b287b9237d2c9d99bc9dffc1d51fa237c601272-crop-u1353.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/800x0%20(1)-crop-u1479.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/800x0-crop-u1505.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/d1577095-crop-u1531.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/origins_sku_0px901_500x625_0-1-crop-u1557.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
